@@ -28,10 +28,20 @@ I'm React/React-Native developer from Russia, Saint-Petersburg ;)
 <p>
 :ghost: I'm working as a Software Engineer and making the world better
  </p>
-:blue_book: Fields_of_interests:
-   <p/> <p/> - :spider_web: Web Development.
-  <p/> - :iphone: Mobile Development.
- <p/> - :bookmark: UI/UX.
+ 
+ Education: 
+ - :technologist: Self-Taught Developer
+ - :man_student: Master in Economics
+ - :teacher: Bachelor in Civil Engineering
+ 
+:blue_book:Fields_of_interests:
+- :spider_web: Web Development.
+- :iphone: Mobile Development.
+- :bookmark: UI/UX.
+ 
+ :books:Currently learning: 
+ - Android Development
+ - Blockchain
  
  ---
 
@@ -61,4 +71,4 @@ I'm React/React-Native developer from Russia, Saint-Petersburg ;)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Liptor&theme=prussian&border_radius=50&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liptor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liptor)](https://github.com/anuraghazra/github-readme-stats)
