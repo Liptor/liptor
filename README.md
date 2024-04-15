@@ -41,9 +41,8 @@ I'm React/React-Native developer from Russia, Saint-Petersburg ;)
 - :bookmark: UI/UX.
  
  :books:Currently learning: 
- - Android Development
- - Blockchain
- 
+ - Go Development
+
  ---
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
