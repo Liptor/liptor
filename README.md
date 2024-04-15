@@ -41,7 +41,7 @@ I'm React/React-Native developer from Russia, Saint-Petersburg ;)
 - :bookmark: UI/UX.
  
  :books:Currently learning: 
- - Go Development
+ - Go Backend Microservices
 
  ---
 
