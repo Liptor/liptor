@@ -37,6 +37,7 @@ I'm React/React-Native developer from Russia, Saint-Petersburg ;)
 :blue_book:Fields_of_interests:
 - :spider_web: Web Development.
 - :iphone: Mobile Development.
+- 💻: Backend Development
 - :bookmark: UI/UX.
  
  :books:Currently learning: 
