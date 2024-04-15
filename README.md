@@ -20,7 +20,7 @@
  </h3>
 
 
-I'm React/React-Native developer from Russia, Moscow ;)
+I'm Go developer from Russia, Moscow ;)
 <p>
 :ghost: I'm working as a Software Engineer and making the world better
  </p>
